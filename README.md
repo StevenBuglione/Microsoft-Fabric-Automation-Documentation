@@ -4,7 +4,7 @@ This repository contains all the relevant information and resources for the Fabr
 
 ## Proposed Architecture
 
-![Architecture Overview](./images/Fabric-Automation-Architecture-Overview.png)
+![Architecture Overview](./images/overview.png)
 
 The above diagram illustrates the proposed architecture solution for the project.
 
