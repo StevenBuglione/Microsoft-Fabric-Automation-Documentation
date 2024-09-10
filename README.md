@@ -15,19 +15,19 @@ Fabric CLI is a command-line interface tool built with C# and .NET 8.0, designed
 ![Create Workspace](./images/workspace-create.png)
 ![List Workspaces](./images/workspace-list.png)
 
-For more details, please refer to the [Fabric CLI README](https://github.com/StevenBuglione/fabric-cli/blob/main/README.md) and the [associated GitHub Actions pipeline](https://github.com/StevenBuglione/fabric-cli/actions/runs/10784148604).
+For more details, please refer to the [Fabric CLI README](https://github.com/StevenBuglione/fabric-cli) and the [associated GitHub Actions pipeline](https://github.com/StevenBuglione/fabric-cli/actions/runs/10784148604).
 
 ## Fabric CLI Action
 
 This GitHub Action allows you to run Fabric CLI commands for Microsoft Fabric resources. It is designed to work with workspaces and can perform actions such as creating and listing workspaces.
 
-For more details, please refer to the [Fabric CLI Action README](https://github.com/StevenBuglione/fabric-cli-action/blob/main/README.md)
+For more details, please refer to the [Fabric CLI Action README](https://github.com/StevenBuglione/fabric-cli-action)
 
 ## Fabric CLI Action Demo
 
 This repository demonstrates how an external repository can reference and use the `StevenBuglione/fabric-cli-action@v1.0` GitHub Action. This action is designed to interact with the Microsoft Fabric API.
 
-For more details, please refer to the [Fabric CLI Action Demo README](https://github.com/StevenBuglione/fabric-cli-application/blob/main/README.md) and the [associated GitHub Actions pipeline](https://github.com/StevenBuglione/fabric-cli-application/actions/runs/10785151004).
+For more details, please refer to the [Fabric CLI Action Demo README](https://github.com/StevenBuglione/fabric-cli-application) and the [associated GitHub Actions pipeline](https://github.com/StevenBuglione/fabric-cli-application/actions/runs/10785151004).
 
 ## License
 
